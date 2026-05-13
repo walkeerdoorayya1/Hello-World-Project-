@@ -1,6 +1,14 @@
-markdown
+Nagode Khaleed 🙌. Ga cikakken README.md file da ya haɗa da Screenshots section domin ya fi jan hankali. Wannan zai nuna hoton yadda app ɗinka yake aiki a terminal:
+
+`markdown
 
 Hello World Project
+
+!GitHub repo size
+!GitHub stars
+!GitHub forks
+!Python version
+!License
 
 📖 Description
 A simple Hello-World project written in Python to practice Git and GitHub integration using Ubuntu in UserLAnd.  
@@ -56,3 +64,17 @@ If you would like to improve this project:
 5. Open a Pull Request on GitHub.
 
 Please make sure your code is clean, well-documented, and tested before submitting.
+
+📜 License
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this code, provided that the original copyright notice and license are included.
+
+📸 Screenshots
+Below is an example of running the project in Ubuntu UserLAnd:
+
+`
+userland@localhost:~$ python3 hello.py
+Hello, World!
+`
+
+(Add a screenshot image here showing the terminal output for better visualization.)
