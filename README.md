@@ -1,3 +1,5 @@
+markdown
+
 Hello World Project
 
 📖 Description
@@ -34,3 +36,23 @@ This repository is intended for learning version control, authentication with pe
 - Implement unit tests to practice software testing.
 - Document step-by-step GitHub workflows for beginners.
 - Expand to daily coding exercises and automation scripts.
+
+🤝 Contributing
+Contributions are welcome!  
+If you would like to improve this project:
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+   `bash
+   git checkout -b feature-name
+   `
+3. Commit your changes:
+   `bash
+   git commit -m "Add new feature"
+   `
+4. Push to your branch:
+   `bash
+   git push origin feature-name
+   `
+5. Open a Pull Request on GitHub.
+
+Please make sure your code is clean, well-documented, and tested before submitting.
