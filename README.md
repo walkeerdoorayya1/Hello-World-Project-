@@ -1,6 +1,4 @@
-Madalla Khaleed 👏. Yanzu bari mu ƙara maka Installation section a README.md ɗinka domin duk wanda ya yi clone repo ɗin ya san yadda zai shigar da abubuwan da ake buƙata kafin gudanar da app ɗin.
-
-`markdown
+markdown
 
 Hello World Project
 
@@ -99,3 +97,13 @@ Hello, World!
 
 (Add a screenshot image here showing the terminal output for better visualization.)
 `
+## 🚫 Ignored Files
+This project includes a `.gitignore` file to keep the repository clean and free from unnecessary system files.  
+The following files and directories are excluded:
+- `.bashrc`, `.bash_history`, `.profile`, `.python_history` → Personal shell configuration and history files
+- `.cache/`, `.config/`, `.dbus/`, `.local/` → System cache and configuration directories
+- `.mozilla/`, `.vnc/`, `.w3m/` → Browser and remote session data
+- `.android/`, `.gtk-bookmarks`, `.gtkrc-2.0`, `.icons/` → Android and GTK-related files
+- `.msf4/`, `.gem/` → Metasploit and Ruby gem directories
+
+These files are ignored because they are environment-specific and not relevant to the Hello-World project.
