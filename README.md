@@ -107,3 +107,19 @@ The following files and directories are excluded:
 - `.msf4/`, `.gem/` → Metasploit and Ruby gem directories
 
 These files are ignored because they are environment-specific and not relevant to the Hello-World project.
+
+
+## 🙏 Acknowledgements
+Special thanks to:
+- **Ubuntu UserLAnd** → for providing the mobile Linux environment.
+- **Python** → for being the language of choice for this Hello-World project.
+- **Git & GitHub** → for enabling version control and collaboration.
+- All open-source contributors whose tools make learning easier.
+
+## 📬 Contact
+If you have questions, suggestions, or want to contribute:
+- GitHub: [walkeerdoorayya1](https://github.com/walkeerdoorayya1)
+- Email: walkeerdoorayya1@example.com *(replace with your actual email if you want to share)*
+- Location: Kaduna State, Nigeria
+
+Feel free to open issues or pull requests on GitHub for improvements.
