@@ -1,4 +1,4 @@
-Nagode Khaleed 🙌. Ga cikakken README.md file da ya haɗa da Screenshots section domin ya fi jan hankali. Wannan zai nuna hoton yadda app ɗinka yake aiki a terminal:
+Madalla Khaleed 👏. Yanzu bari mu ƙara maka Installation section a README.md ɗinka domin duk wanda ya yi clone repo ɗin ya san yadda zai shigar da abubuwan da ake buƙata kafin gudanar da app ɗin.
 
 `markdown
 
@@ -18,6 +18,26 @@ This repository is intended for learning version control, authentication with pe
 - Practice Git commands (init, add, commit, push)
 - Learn GitHub authentication using Personal Access Tokens
 - Test pushing code from Ubuntu UserLAnd environment
+
+⚙️ Installation
+To set up the environment:
+1. Update package lists:
+   `bash
+   sudo apt update
+   `
+2. Install Python:
+   `bash
+   sudo apt install python3
+   `
+3. Install Git:
+   `bash
+   sudo apt install git
+   `
+4. Verify installations:
+   `bash
+   python3 --version
+   git --version
+   `
 
 🚀 How to Run
 1. Clone the repository:
@@ -78,3 +98,4 @@ Hello, World!
 `
 
 (Add a screenshot image here showing the terminal output for better visualization.)
+`
