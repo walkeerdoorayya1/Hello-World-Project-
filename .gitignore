@@ -1,0 +1,25 @@
+# Ignore system files
+.bashrc
+.bash_history
+.profile
+.python_history
+.Xauthority
+
+# Ignore cache and config directories
+.cache/
+.config/
+.dbus/
+.local/
+.mozilla/
+.vnc/
+.w3m/
+
+# Ignore Android and GTK related files
+.android/
+.gtk-bookmarks
+.gtkrc-2.0
+.icons/
+
+# Ignore Metasploit and Ruby gems
+.msf4/
+.gem/
